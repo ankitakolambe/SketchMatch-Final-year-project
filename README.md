@@ -107,10 +107,7 @@ This module performs facial matching against a dataset using **AWS Rekognition**
    - Open and run `collection_search_face.java` to match the sketches drawn in Part 1 with the database.
 
 ## 🎥 WALKTHROUGH VIDEO  
-Watch the walkthrough of the project to get an idea about the application.  
-
-- [Watch PART 1](PROJ REC.mp4)  
-
+[Download & Watch Part 2](PROJ REC.mp4)
 
 ## 📄 DESCRIPTION / ABSTRACT  
 
